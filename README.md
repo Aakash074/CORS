@@ -1,0 +1,2 @@
+# CORS
+check
